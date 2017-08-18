@@ -1,0 +1,3 @@
+[submodule "hardware/pd1-3d"]
+	path = hardware/pd1-3d
+	url = https://github.com/sonelu/pd1-3d
